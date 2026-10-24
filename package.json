@@ -1,0 +1,14 @@
+
+{
+  "name": "universal-os-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.5",
+    "express": "^4.21.2"
+  }
+}
